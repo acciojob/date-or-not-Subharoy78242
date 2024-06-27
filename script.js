@@ -3,5 +3,5 @@ var isDate = function (input) {
 };
 
 // Do not change the code below.
-const input = promp("Enter Date.");
-aler(isDate(input));
+const input = prompt("Enter Date.");
+alert(isDate(input));
